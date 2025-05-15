@@ -1,0 +1,36 @@
+.menutext1{
+    padding-top:30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3d0000;
+    color:#cf9f33;
+    margin-top: 30%;
+}
+.imagemenu1{
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0px;
+    padding-top:30px;
+    margin:0px;
+    background-color: #3d0000;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+}
+.image1{
+    width:600px;
+    height: 700px;
+    border-radius: 50px;
+}
+.image2{
+    width:600px;
+    height: 700px;
+    border-radius: 50px;
+}
+.image3{
+    width:600px;
+    height: 700px;
+    border-radius: 50px;
+}
